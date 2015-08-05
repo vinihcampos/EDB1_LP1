@@ -1,1 +1,0 @@
-document.write('<img width="0" height="0" src="http://image2.pubmatic.com/AdServer/Pug?vcode=abcdR5cGddddqcz0xJmNvZGU9ODImdGw9MTU3NjgwMCZxyze13&piggybackCookie=UID:72a92e71-af2e-4c0e-b667-4dcda83564c4"/>');

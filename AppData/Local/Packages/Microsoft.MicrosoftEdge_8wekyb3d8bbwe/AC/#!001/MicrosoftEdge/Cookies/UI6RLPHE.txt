@@ -1,9 +1,0 @@
-lomadee_traffic
-true
-book.tam.com.br/TAM/dyn/air/
-2147484752
-4261497856
-30463139
-3578667156
-30461731
-*

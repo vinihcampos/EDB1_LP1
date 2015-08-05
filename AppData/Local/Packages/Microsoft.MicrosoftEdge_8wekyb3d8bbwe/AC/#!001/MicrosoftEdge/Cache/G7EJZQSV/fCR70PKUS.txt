@@ -1,1 +1,0 @@
-{"e":"qMm_VeyoF4KigwTnt7ewDQ","c":-1,"u":"https:\/\/www.google.com.br\/complete\/search?client=hp\u0026hl=pt\u0026gs_rn=64\u0026gs_ri=hp\u0026tok=FKHsbnvUV4wtU-xlNluQWw\u0026cp=0\u0026gs_id=2\u0026xhr=t\u0026q=\u0026tch=1\u0026ech=1\u0026psi=l8m_Va6eLYqeNu6PtugJ.1438643155221.1","p":true,"d":"[\"\",[],{\"j\":\"2\",\"l\":\"1\",\"q\":\"YN4MIlXV7lRPecTdqjbZlQ2-Nt8\"}]"}/*""*/
