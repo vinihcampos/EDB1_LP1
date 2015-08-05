@@ -1,0 +1,34 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CnVYz3nvBVaLnIdHKfNfYvZgN7ubZugaGrK-U-AHAjbcBEAEgwJ6tF2DN-OeAoAOgAeKYxvcDyAEBqQLvUzQzsWCTPqgDAaoEpwFP0OG14gtv22kv91gemSwcfwLAx16fBcbYWmykrHTAJSnytsMST1aIp5Ze12h8OM9Td2KfYjA0Z1zuiArG9J7-r5XKLo2tAohgiBObi575-eF-1gFxknMl1ZmCtjVo01OukzgxaiLUEA9HKNtBs59V7JJnOZIJtl_RSwgsS9eOH9grkdj5aVpQBZPEGf5B4FKobVc3OlAltipfa6AZqlXZxG78A69CmYgGAYAHhue5CKgHpr4b2AcB&amp;num=1&amp;cid=5Ggapu-dXqd7jVMC3Xqi21VK&amp;sig=AOD64_2SVR2nvMgFc9fUbzALMltiTjye-g&amp;client=ca-globocom-tech&amp;adurl=http://tracker.marinsm.com/rd%3Fcid%3D9016ml8553%26mkwid%3Dcbm2ueiXD%26pcrid%3D66642687534%26pkw%3Dcomputador%2520intel%2520core%2520i7%26pmt%3D%26pdv%3Dc%26lp%3Dhttp://altfarm.mediaplex.com/ad/ck/12255-132726-2056-0%3FCID%3D53865%26LID%3D1897997%26st%3Dcomputador%2520intel%2520core%2520i7%26VEN1%3Dcbm2ueiXD,66642687534,9016ml8553,c%26VEN2%3D,computador%2520intel%2520core%2520i7%26DURL%3Dhttp%253A%252F%252Fwww.dell.com%252Fbr%252Fp%252Fxps-8700%252Fpd"; 
+google_ad.visible_url = "www.dell.com/br/Corei7"; 
+google_ad.log_info = "BVkdu3nvBVaLnIdHKfNfYvZgNAIasr5T4AQAAEAE4AcgBAcITCRCAARjimMb3Aw";
+google_ad.activeview_cid = "5Ggapu-dXqd7jVMC3Xqi21VKfjs";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_js_tos_enabled = "true";
+google_ad.activeview_metadata = "la=0&";
+google_ad.line1 = "Dell com Intel\x26#174; Core\x26#8482; i7"; 
+google_ad.line2 = "Computador XPS 8700 (Intel\x26#174;) c/ 8GB"; 
+google_ad.line3 = "Ampla Capacidade. Compre Hoje!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://forum.techtudo.com.br/perguntas/176560/comparar-notebooks%26gl%3DBR%26hl%3Dpt%26client%3Dca-globocom-tech%26hideleadgen%3D1%26ai0%3DCnVYz3nvBVaLnIdHKfNfYvZgN7ubZugaGrK-U-AHAjbcBEAEgwJ6tF2DN-OeAoAOgAeKYxvcDyAEBqQLvUzQzsWCTPqgDAaoEpwFP0OG14gtv22kv91gemSwcfwLAx16fBcbYWmykrHTAJSnytsMST1aIp5Ze12h8OM9Td2KfYjA0Z1zuiArG9J7-r5XKLo2tAohgiBObi575-eF-1gFxknMl1ZmCtjVo01OukzgxaiLUEA9HKNtBs59V7JJnOZIJtl_RSwgsS9eOH9grkdj5aVpQBZPEGf5B4FKobVc3OlAltipfa6AZqlXZxG78A69CmYgGAYAHhue5CKgHpr4b2AcB\x26usg\x3dAFQjCNGcuf0E33wSDunDVuKWjiP261yIgg";
+var google_attribution_text = "Anúncios Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

@@ -1,0 +1,9 @@
+comp
+global=crtg8%3Dtrue%3Bcrtg8%2Drs%2Dlow%3Dtrue
+ww488.smartadserver.com/
+2147501056
+16769024
+30467581
+1147932458
+30461739
+*

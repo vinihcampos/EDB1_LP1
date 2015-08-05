@@ -1,0 +1,34 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=Cj18_M3vBVYS-KJG3fIbVn-AB8dCl8gb5lZKNmwLAjbcBEAEgwJ6tF2DN-OeAoAOgAa_h3N0DyAEBqAMBqgSqAU_QNaoFTeT0VyvZECJ8oSqkY83z8WEhMs-mKMQrvQL0vgBs56vga1wTnczmC3Lfn8YKKmgZJKhj82gBEkVqPc3y1zPqC43EJuFClpbKRsWnzmQn8zY0V0GTDR8AcB8svFzR_vWEo9Te40qukFV_ES0NHtOirotiZFSlp86WLeoangDcXZGhA-NxOsuvaxw8sxtSViJ0JPRP4yJtRSB-R2XOTZLzZHJLokf7gAe5nqMiqAemvhvYBwE&amp;num=1&amp;sig=AOD64_1GIQ8BKFcGRC6kzCB_hB-DWX2XIg&amp;client=ca-globocom-tech&amp;adurl=http://www.pichau.com.br/catalogsearch/result/%3Fq%3Dssd%2Bhyperx"; 
+google_ad.visible_url = "www.pichau.com.br/HyperX_SSD"; 
+google_ad.log_info = "BLJSNM3vBVYS-KJG3fIbVn-ABAPmVko2bAgAAEAE4AcgBAcITCRCAARiv4dzdAw";
+google_ad.activeview_cid = "5GiotM8TQc8ZD4OCKqAiVu4L6ZQ";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_js_tos_enabled = "true";
+google_ad.activeview_metadata = "ud=1&lp=1&la=0&";
+google_ad.line1 = "SSD Para Notebook"; 
+google_ad.line2 = "SSD SATA ultrarr\x26#225;pido. Capacidades"; 
+google_ad.line3 = "de 120GB at\x26#233; 960GB. Compre agora!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://forum.techtudo.com.br/perguntas/176560/comparar-notebooks%26gl%3DBR%26hl%3Dpt%26client%3Dca-globocom-tech%26hideleadgen%3D1%26ai0%3DCj18_M3vBVYS-KJG3fIbVn-AB8dCl8gb5lZKNmwLAjbcBEAEgwJ6tF2DN-OeAoAOgAa_h3N0DyAEBqAMBqgSqAU_QNaoFTeT0VyvZECJ8oSqkY83z8WEhMs-mKMQrvQL0vgBs56vga1wTnczmC3Lfn8YKKmgZJKhj82gBEkVqPc3y1zPqC43EJuFClpbKRsWnzmQn8zY0V0GTDR8AcB8svFzR_vWEo9Te40qukFV_ES0NHtOirotiZFSlp86WLeoangDcXZGhA-NxOsuvaxw8sxtSViJ0JPRP4yJtRSB-R2XOTZLzZHJLokf7gAe5nqMiqAemvhvYBwE\x26usg\x3dAFQjCNFYARVKKpqEpCU9s3CX1HNlKOnx1w";
+var google_attribution_text = "Anúncios Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

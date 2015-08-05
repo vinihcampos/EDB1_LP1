@@ -1,0 +1,9 @@
+first_session
+%7B%22visits%22%3A7%2C%22start%22%3A1438656522217%2C%22last_visit%22%3A1438656666131%2C%22url%22%3A%22https%3A%2F%2Fgit-scm.com%2Fbook%2Fen%2Fv2%2FGetting-Started-The-Command-Line%22%2C%22path%22%3A%22%2Fbook%2Fen%2Fv2%2FGetting-Started-The-Command-Line%22%2C%22referrer%22%3A%22https%3A%2F%2Fgit-scm.com%2Fbook%2Fen%2Fv2%2FGetting-Started-Git-Basics%22%2C%22referrer_info%22%3A%7B%22host%22%3A%22git-scm.com%22%2C%22path%22%3A%22%2Fbook%2Fen%2Fv2%2FGetting-Started-Git-Basics%22%2C%22protocol%22%3A%22https%3A%22%2C%22port%22%3A80%2C%22search%22%3A%22%22%2C%22query%22%3A%7B%7D%7D%2C%22search%22%3A%7B%22engine%22%3Anull%2C%22query%22%3Anull%7D%2C%22version%22%3A0.4%7D
+git-scm.com/book/en/v2/
+1089
+3049588992
+30467973
+1755396616
+30461536
+*
