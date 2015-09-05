@@ -1,3 +1,12 @@
+
+/*
+Forma de compilação
+g++ -Wall -std=c++11 -I include/ src/doubleArray.cpp src/drive.cpp -o bin/doubleArray
+
+Estou tendo probelmas na inclusão do doubleArray.h, por isso que para funcionar tenho
+que usar o doubleArray.cpp
+*/ 
+
 #include <iostream>
 #include "doubleArray.cpp"
 

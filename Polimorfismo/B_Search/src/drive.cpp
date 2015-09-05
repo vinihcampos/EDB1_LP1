@@ -1,3 +1,11 @@
+/*
+Forma de compilação
+g++ -Wall -std=c++11 -I include/ src/b_search.cpp src/drive.cpp -o bin/b_search
+
+Estou tendo probelmas na inclusão do b_searh.h, por isso que para funcionar tenho
+que usar o b_search.cpp
+*/ 
+
 #include <iostream>
 #include "b_search.cpp"
 

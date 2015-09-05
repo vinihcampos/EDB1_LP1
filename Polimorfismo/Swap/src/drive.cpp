@@ -1,3 +1,9 @@
+
+/*
+Forma de compilação
+g++ -Wall -std=c++11 -I include/ src/b_search.cpp src/drive.cpp -o bin/b_search
+*/ 
+
 #include <iostream>
 #include "swap.h"
 

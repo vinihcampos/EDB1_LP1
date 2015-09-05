@@ -1,5 +1,14 @@
+
+/*
+Forma de compilação
+g++ -Wall -std=c++11 -I include/ src/max.cpp src/drive.cpp -o bin/max
+
+Estou tendo probelmas na inclusão do max.h, por isso que para funcionar tenho
+que usar o max.cpp
+*/ 
+
 #include <iostream>
-#include "max.h"
+#include "max.cpp"
 
 using namespace std;
 
