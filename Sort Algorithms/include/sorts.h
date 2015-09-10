@@ -3,9 +3,19 @@
 
 #include <iostream>
 
+/*
+* This class has/will have several functions to sort algorithms
+* These function are static, so the user don't need to instantiate class
+* To use the methods of class, it's only need use this form:
+* 
+* SortAlgorithms<type_of_object>::funtion_name( //PARAMETERS );
+* Where:
+*	- type_of_object is the type of your array
+*	- function_name is the function that will be used
+*/
+
 template < class T>
 class SortAlgorithms{
-
 
 	public:
 		/*
