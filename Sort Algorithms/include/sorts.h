@@ -14,7 +14,7 @@
 *	- function_name is the function that will be used
 */
 
-template < class T>
+template < typename T, typename Func>
 class SortAlgorithms{
 
 	public:
@@ -40,6 +40,18 @@ class SortAlgorithms{
 					--iterator;
 				}
 				V[++iterator] = key;
+			}
+		}
+
+		static void insertionSort(T * start, T * end, Func comp){
+			for(auto i (start + 1); i <= end; ++i){
+				auto key = *i;
+				auto iterator = i - 1;
+				while(iterator >= start && comp(key, *iterator)){
+					*(iterator + 1) = *iterator;
+					--iterator;
+				}
+				*(++iterator) = key;
 			}
 		}
 
